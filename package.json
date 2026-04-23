@@ -1,7 +1,7 @@
 {
-  "name": "servisbot-frontend-challenge",
+  "name": "servisbot-coding-challenge",
   "version": "1.0.0",
-  "description": "ServisBot frontend take home code challenge",
+  "description": "ServisBot coding take home challenge",
   "main": "index.js",
   "scripts": {
     "start": "node generate.mjs"
