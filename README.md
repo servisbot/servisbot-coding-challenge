@@ -1,6 +1,7 @@
 # ServisBot Fullstack Code Challenge
 
 Welcome, and thank you for taking the time to work on this challenge! This is a chance to showcase your fullstack abilities across API design, data handling, and UI/UX.
+Feel free to fork this repo, or create your own repo and complete the task.
 
 ## Overview
 
